@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-06T07:07:01Z" name="Default suite" finished-at="2022-06-06T07:09:14Z" duration-ms="132769">
+    <groups>
+    </groups>
+    <test started-at="2022-06-06T07:07:01Z" name="Default test" finished-at="2022-06-06T07:09:14Z" duration-ms="132769">
+      <class name="AdminWebRevamp.TestCasesPage">
+        <test-method is-config="true" signature="Launch_Browser()[pri:0, instance:AdminWebRevamp.TestCasesPage@5170bcf4]" started-at="2022-06-06T12:37:01Z" name="Launch_Browser" finished-at="2022-06-06T12:37:15Z" duration-ms="14208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser -->
+        <test-method signature="User_Email_TC()[pri:0, instance:AdminWebRevamp.TestCasesPage@5170bcf4]" started-at="2022-06-06T12:37:15Z" name="User_Email_TC" finished-at="2022-06-06T12:38:08Z" duration-ms="52712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Email_TC -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:AdminWebRevamp.TestCasesPage@5170bcf4]" started-at="2022-06-06T12:38:08Z" name="close_browser" finished-at="2022-06-06T12:38:08Z" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+        <test-method is-config="true" signature="Launch_Browser()[pri:0, instance:AdminWebRevamp.TestCasesPage@5170bcf4]" started-at="2022-06-06T12:38:08Z" name="Launch_Browser" finished-at="2022-06-06T12:38:21Z" duration-ms="12687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser -->
+        <test-method signature="User_Email_TC1()[pri:0, instance:AdminWebRevamp.TestCasesPage@5170bcf4]" started-at="2022-06-06T12:38:21Z" name="User_Email_TC1" finished-at="2022-06-06T12:39:14Z" duration-ms="52777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Email_TC1 -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:AdminWebRevamp.TestCasesPage@5170bcf4]" started-at="2022-06-06T12:39:14Z" name="close_browser" finished-at="2022-06-06T12:39:14Z" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- AdminWebRevamp.TestCasesPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
